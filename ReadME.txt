@@ -1,4 +1,5 @@
 Thanks for downloading!
-To play, open ByteHacker.exe as an Administrator.
-
+To play, Download all the files into a single folder 
+Then, open ByteHacker.exe as an Administrator.
+Have Fun!
 - Byte
